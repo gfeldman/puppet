@@ -1,4 +1,4 @@
 file { '/tmp/goodbye.txt':
         ensure => file,
-        content => "goodbye, world\n",
+        content => "goodbye, cruel world\n",
 }
